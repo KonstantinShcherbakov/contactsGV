@@ -25,4 +25,5 @@ return [
     'igorKremenyuk' => 'Игорь Кременюк',
     'popovaAnastasia' => 'Попова Анастасия',
     'lozitskayaValeria' => 'Лозицкая Валерия',
+    'tsybriyMaxim' => 'Цыбрий Максим',
 ];
